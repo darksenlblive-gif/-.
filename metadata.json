@@ -1,0 +1,8 @@
+{
+  "name": "YouGlass - Liquid Glass YouTube Parody",
+  "description": "A futuristic YouTube parody with a Liquid Glass (Glassmorphism) aesthetic, featuring Russian content creators like Toples, Dima Maslennikov, Mono, and Holdik.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
